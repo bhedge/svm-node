@@ -1,0 +1,16 @@
+{
+  "name": "svm-node",
+  "version": "1.0.0",
+  "description": "Support Vector Machine ported from MSDN article https://msdn.microsoft.com/en-us/magazine/mt833291 Support Vector Machines Using C# By James McCaffrey | March 2019",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "brandon.hedge@gmail.com",
+  "contributors": [{"name":"James McCaffrey", "url":"https://msdn.microsoft.com/en-us/magazine/mt833291"}],
+  "license": "MIT",
+  "devDependencies": {
+    "standard": "^12.0.1"
+  },
+  "dependencies": {}
+}
